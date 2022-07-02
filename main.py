@@ -1,7 +1,9 @@
 import requests
+import time
 
 
 def check_channel(l):
+    time.sleep(10)
     return print(l)
 
 
